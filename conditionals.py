@@ -1,6 +1,6 @@
 class_roster = [“Xiulan",“Kwaku",“Shirley"] ​
 
-test_scores = [86,93,80]​
+test_scores = [86,93,80,85]
 
 ​
 
